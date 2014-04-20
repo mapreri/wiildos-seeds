@@ -1,0 +1,7 @@
+wiild-core:
+wiild-graphic: wiild-core
+wiild-math: wiild-core
+wiild-misc: wiild-core
+wiild-programming: wiild-core
+wiild-science: wiild-core
+wiild-all: wiild-core wiild-graphic wiild-math wiild-misc wiild-programming wiild-science
