@@ -3,4 +3,8 @@ https://docs.google.com/document/d/1RPPF14h1Sw2gQjGTuZjUIlNHnGrafS8ekhFjJM9MT00/
 
 I named the seeds the same of our metapackages binaries, but of course this is not needed.
 
+The repository of this seed is available at http://anonscm.debian.org/gitweb/?p=users/mapreri-guest/wiildos/pkg-wiildos-meta.git
+git clone https://alioth.debian.org/anonscm/git/users/mapreri-guest/wiildos/wiildos-seeds.git
+
+
 If you are looking for an help managing this, email me, Mattia Rizzolo <mattia@mapreri.org>
